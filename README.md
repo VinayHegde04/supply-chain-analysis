@@ -69,12 +69,15 @@ The following analyses were performed:
 
 6. Inventory allocation may need adjustment to better align stock levels with product demand.
 
-## Visualization Examples
+## Visualizations
 
-Below are examples of insights generated from the analysis.
+### Product Sales by Category
+![Product Sales](visuals/product_sales.png)
 
-### Inventory Distribution by Product Type
+### Revenue by Product Category
+![Revenue](visuals/revenue.png)
 
+### Inventory Distribution
 ![Stock Levels](visuals/stock_levels.png)
 
 ## Project Structure
